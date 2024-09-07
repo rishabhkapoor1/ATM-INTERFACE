@@ -15,6 +15,6 @@ Code Highlights:
 
 -> Withdraw Money: Users can withdraw money from their account.
 
--> Display Account Details: Users can view account details like account holder name, account number, and balance.
+-> Display Balance: Users can view their account balance.
 
 
